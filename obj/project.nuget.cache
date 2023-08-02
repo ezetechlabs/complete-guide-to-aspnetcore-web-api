@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "N2asJYmgq2TWxFjCwNCD2A7i3yRNM7Qz4n9MU0d1ZTp4BSjKSCYmUoEy+olGL2HMCjiJSwRAYIg/2QUc1Z1WcA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ED610334\\source\\repos\\BackEnd-bids\\BackEnd-bids\\BackEnd-bids.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ED610334\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.9\\microsoft.aspnetcore.openapi.7.0.9.nupkg.sha512",
+    "C:\\Users\\ED610334\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\ED610334\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\ED610334\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\ED610334\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\ED610334\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\ED610334\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
